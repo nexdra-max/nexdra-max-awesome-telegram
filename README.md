@@ -8,7 +8,6 @@
   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   [![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@24ddbd85dde88890615abc707517e1f2ab33b493/assets/Awesome%20Telegram.svg)](https://github.com/kalanakt/awesome-telegram)
   [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/kalanakt/awesome-telegram/)
-  [![Deploy static content to Pages](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml/badge.svg)](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml)
   
   **Contributing:**
   
