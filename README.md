@@ -262,7 +262,6 @@
   #### OpenSource Other Bots
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
-  - __[RealAddrBot](https://github.com/nexdra-max/realaddrbot)__  By [nexdra-max](https://github.com/nexdra-max) : _Free identity & address generator for Telegram. 21 countries, 3 depth levels, built-in temp email inbox on private domain. Generates names, addresses, SSN, credit cards (Luhn-valid). TypeScript, Cloudflare Workers. 12 languages. Privacy-first with no logging._
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
 
 
